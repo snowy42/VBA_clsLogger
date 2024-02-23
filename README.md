@@ -6,7 +6,7 @@ The Logging Class Module is designed to provide a log file output with simple ev
 
 ## Author
 
-Matthew Snow
+Snowy42
 
 ## Version
 
