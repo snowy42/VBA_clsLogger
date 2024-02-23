@@ -88,7 +88,7 @@ __________________________________________________
 2707.0 ms            Event 3
 --------------------------------------------------
 Log complete, process took:   4.2 seconds
-Log file saved to: C:\Users\Snowy\OneDrive\Documents\_Upwork\_Common Files\LogFile_Log_20240223_150121.txt
+Log file saved to: C:\Path\LogFile_Log_20240223_150121.txt
 ```
 
 ## Notes
