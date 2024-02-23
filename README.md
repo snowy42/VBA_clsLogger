@@ -78,6 +78,19 @@ log.AddEvent "Event 3"
 log.CommitLog
 ```
 
+## Output Example
+```
+LogFile_Log_20240223_150121.txt
+Start: February 23, 2024 - 15:01:21
+__________________________________________________
+3.9 ms               Event 1
+1160.2 ms            Event 2
+2707.0 ms            Event 3
+--------------------------------------------------
+Log complete, process took:   4.2 seconds
+Log file saved to: C:\Users\Snowy\OneDrive\Documents\_Upwork\_Common Files\LogFile_Log_20240223_150121.txt
+```
+
 ## Notes
 - The log file is saved to the workbook path by default.
 - Timestamps include milliseconds for accurate time tracking.
